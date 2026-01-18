@@ -1,2 +1,2 @@
-This is a UI clone of X 
-It is project showcasing just the tailwind skills
+This is a UI clone of X \n
+this project is showcasing just the tailwind skills
